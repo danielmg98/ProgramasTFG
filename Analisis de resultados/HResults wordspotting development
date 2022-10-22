@@ -1,0 +1,385 @@
+====================== HTK Results Analysis =======================
+  Date: Fri Sep 30 09:38:42 2022
+  Ref : dev_forced_allignement_final.mlf
+  Rec : dev_recout_final.mlf
+------------------------ Figures of Merit -------------------------
+
+      KeyWord:    #Hits     #FAs  #Actual      FOM
+absolutamente:        0        0        3     0.00
+academia_de_la_lengua:        0        0        0     0.00
+   académico:        0        0        0     0.00
+      acceder:        0        1        2     0.00
+  actividades:        0        0        0     0.00
+      acuerdo:        0        0        3     0.00
+     adelante:        0        1        1     0.00
+administración:        0        0        0     0.00
+adolfo_corujo:        0        0        0     0.00
+     aguilera:        0        0        3     0.00
+alcalá_de_henares:        0        0        0     0.00
+      alguien:        0        2        2     0.00
+    alrededor:        0        2        1     0.00
+américa_latina:        0        0        0     0.00
+   anotación:        0        0        0     0.00
+      anselmo:        0        0        0     0.00
+antonio_sánchez_valderrábanos:        0        0        0     0.00
+  aprendizaje:        0        0        0     0.00
+aproximadamente:        0        0        3     0.00
+ arquitectura:        0        0        0     0.00
+   artículos:        0        0        0     0.00
+    atención:        0        0        0     0.00
+    australia:        0        0        0     0.00
+      austria:        0        0        1     0.00
+automáticamente:        0        0        0     0.00
+    barcelona:        0        0        0     0.00
+      beatles:        0        1        2     0.00
+     berrilan:        0        0        0     0.00
+  bioamérica:        0        0        0     0.00
+        boris:        0        0        0     0.00
+   buscadores:        3        1       10    27.99
+   búsquedas:        0        0        0     0.00
+     cálculo:        0        0        0     0.00
+      calidad:        0        1        1     0.00
+     cantidad:        0        0        0     0.00
+    capacidad:        0        0        6     0.00
+      capital:        0        4        2     0.00
+   castellano:        0        1       14     0.00
+     catalán:        0        0        0     0.00
+catalogación:        0        0        0     0.00
+    cataluña:        0        0        0     0.00
+      catorce:        0        0        2     0.00
+    cervantes:        1        2       11     9.09
+  científica:        0        0        0     0.00
+   claramente:        0        1        0     0.00
+clasificación:        0        0        0     0.00
+ clasificador:        0        0        0     0.00
+     clientes:        0        6        3     0.00
+colaboración:        0        0        0     0.00
+  colecciones:        0        1        0     0.00
+     colombia:        0        0        0     0.00
+      colores:        0        6        0     0.00
+     combinar:        0        0        0     0.00
+   comentario:        0        2        0     0.00
+  comerciales:        0        1        1     0.00
+     comillas:        1        1        2    44.97
+   compañía:        0        0        0     0.00
+completamente:        0        0        0     0.00
+   complicado:        0        1        0     0.00
+  complutense:        0        0        0     0.00
+  computadora:        1        1        1   100.00
+comunicación:        0        0        0     0.00
+comunidad_de_madrid:        0        0        0     0.00
+    conceptos:        1        4        1    59.79
+     concreto:        4        0        4   100.00
+    confianza:        0        0        0     0.00
+     conjunto:        0        0        0     0.00
+ conocimiento:        0        2        1     0.00
+    conseguir:        0        1        1     0.00
+    construir:        0        0        1     0.00
+    consultas:        0        1        6     0.00
+ contabilidad:        0        1        0     0.00
+      control:        0        5        0     0.00
+        corea:        0        0        0     0.00
+    corrector:        1        0        2    50.00
+    creación:        0        0        0     0.00
+  crecimiento:        1        0        5    20.00
+     cristian:        0        0        0     0.00
+cristóbal_colón:        0        0        0     0.00
+  cuadraditos:        0        1        0     0.00
+cuatrocientos:        0        0       13     0.00
+    cuestión:        0        0        0     0.00
+     cultural:        1        1        8    12.50
+       danone:        0        0        0     0.00
+      delante:        0        4        4     0.00
+departamentos:        0        1        0     0.00
+      depende:        0        3        0     0.00
+      derecha:        0        0        0     0.00
+   desarrollo:        1        0        6    16.67
+ descripción:        0        0        0     0.00
+     después:        0        0        0     0.00
+     detalles:        0        5        0     0.00
+     detectar:        0        0        0     0.00
+ determinados:        1        0        1   100.00
+      dialnet:        0        1        0     0.00
+  diccionario:        0        2        0     0.00
+   dietterich:        0        0        0     0.00
+     difícil:        0        0        0     0.00
+      dilbert:        0        0        2     0.00
+   dimensión:        0        0        0     0.00
+   dirección:        0        0        0     0.00
+ directamente:        0        0        3     0.00
+   disponible:        2        0        2   100.00
+    dispuesto:        0        1        0     0.00
+   documentos:        4        4       18    18.31
+domingo_laborda:        0        0        0     0.00
+     dominios:        0        6        0     0.00
+   doscientos:        0        4        1     0.00
+      durante:        0        0        2     0.00
+   económica:        0        0        0     0.00
+   económico:        0        0        0     0.00
+efectivamente:        0        0        0     0.00
+     ejemplos:        0        0        3     0.00
+       elcano:        0        0        0     0.00
+      embargo:        0        0        8     0.00
+emilio_ontiveros:        0        0        0     0.00
+     empresas:        2        3       14    11.41
+    encontrar:        0        1        4     0.00
+     entender:        0        1        1     0.00
+      entorno:        0        2        0     0.00
+      erasmus:        0        1        0     0.00
+    escenario:        0        1        3     0.00
+      espacio:        0        2        5     0.00
+     español:        0        0        0     0.00
+especialmente:        0        1        0     0.00
+  específico:        0        0        0     0.00
+      esperar:        0        3        1     0.00
+   establecer:        0        2        0     0.00
+      estados:        0        3        7     0.00
+   estrategia:        0        0        3     0.00
+   estructura:        0        1        7     0.00
+  estudiantes:        0        1        0     0.00
+    etcétera:        0        0        0     0.00
+     europeos:        0        2        1     0.00
+      euskera:        0        1        0     0.00
+evidentemente:        1        3        5    13.97
+  exactamente:        0        0        0     0.00
+  experiencia:        0        2        3     0.00
+ experimentos:        0        0        0     0.00
+     explicar:        0        0        2     0.00
+      extraer:        0        0        1     0.00
+    facilitar:        0        0        1     0.00
+   festivales:        0        1        0     0.00
+     ficheros:        0        0        0     0.00
+      flicker:        0        1        1     0.00
+      formato:        0        2        0     0.00
+      francia:        1        0        4    25.00
+   fundación:        0        0        0     0.00
+fundamentalmente:        0        1        0     0.00
+      galicia:        0        1        0     0.00
+      gallego:        0        1        0     0.00
+       garner:        0        0        3     0.00
+      garzón:        0        0        0     0.00
+      general:        1        4        1   100.00
+     gestión:        0        0        0     0.00
+      gracias:        0        0        1     0.00
+      granada:        0        0        0     0.00
+      grandes:        0        3        9     0.00
+ herramientas:        0        0       12     0.00
+      holanda:        0        0        0     0.00
+      idiomas:        0        1        6     0.00
+    imágenes:        0        0        0     0.00
+      impacto:        0        0        3     0.00
+   importante:        2        1       16    11.87
+      incluso:        0        3        5     0.00
+  indexación:        0        0        0     0.00
+  indicadores:        0        3        0     0.00
+    industria:        0        0        3     0.00
+ información:        0        0        0     0.00
+   inglaterra:        0        0        1     0.00
+  iniciativas:        0        0        3     0.00
+institucional:        0        2        0     0.00
+instituciones:        0        0        0     0.00
+    instituto:        1        1       11     8.18
+  intelectual:        0        0        0     0.00
+  inteligente:        0        0        4     0.00
+  interesante:        1        3        5    20.00
+internacional:        0        1        4     0.00
+  internautas:        1        0       10    10.00
+     internet:       10        1       46    19.55
+   inversión:        0        0        0     0.00
+investigación:        0        0        0     0.00
+irazabalbeitia:        0        0        0     0.00
+       isabel:        0        0        4     0.00
+   javascript:        0        0        0     0.00
+josé_luis_martínez:        0        0        0     0.00
+     la_rioja:        0        0        0     0.00
+    las_rozas:        0        0        0     0.00
+latinoamérica:        0        0        0     0.00
+     lenguaje:        1        0        1   100.00
+      londres:        0        0        0     0.00
+ luis_rodrigo:        0        0        0     0.00
+   magallanes:        0        0        1     0.00
+      málaga:        0        0        0     0.00
+      maneras:        0        1        0     0.00
+     máquina:        0        0        0     0.00
+    marcelino:        0        0        0     0.00
+    marruecos:        0        0        1     0.00
+        mavir:        0        0        2     0.00
+     mayoría:        0        0        0     0.00
+    mecanismo:        0        0        0     0.00
+     mediante:        0        1        3     0.00
+      mejorar:        3        0       10    30.00
+      mercado:        2        4       36     5.56
+     mercurio:        0        0        0     0.00
+     métodos:        0        0        0     0.00
+    microsoft:        0        0        0     0.00
+     millones:        0        8       14     0.00
+   ministerio:        1        0        6    16.67
+      momento:        2        6        9    17.75
+      motores:        2       28       15     0.00
+   multimedia:        0        2        0     0.00
+  música_pop:        0        0        0     0.00
+       mystic:        0        0        0     0.00
+     nacional:        0        0        4     0.00
+      natural:        1        1        6    16.67
+  necesidades:        0        1        0     0.00
+      negocio:        1        7        9     9.99
+    nick_cohn:        0        0        0     0.00
+      ninguna:        0        0        2     0.00
+  normalmente:        0        1        0     0.00
+  nostradamus:        0        0        1     0.00
+      noventa:        3        3       12    21.65
+     nuestros:        0        4       10     0.00
+    objetivos:        1        0        1   100.00
+      obtener:        0        1        2     0.00
+   obviamente:        0        0        0     0.00
+      ochenta:        2        1       12    16.67
+   operadores:        4        3        6    59.97
+  oportunidad:        1        1        6    14.99
+    ordenador:        0        1        4     0.00
+    pacífico:        0        0        0     0.00
+     palabras:        0        2        2     0.00
+   parlamento:        0        1        0     0.00
+    patagonia:        0        0        0     0.00
+   patrimonio:        0        1        6     0.00
+ penetración:        0        0        0     0.00
+     pequeño:        0        0        0     0.00
+     personal:        0        5        2     0.00
+      picasso:        0        0       21     0.00
+    plantilla:        0        0        0     0.00
+   podríamos:        0        0        0     0.00
+      poquito:        0        2        0     0.00
+   porcentaje:        0        0        3     0.00
+     portugal:        0        0        4     0.00
+  posibilidad:        0        0        5     0.00
+    posición:        0        0        0     0.00
+     potencia:        0        0        6     0.00
+    potencial:        1        0       12     8.33
+prácticamente:        0        0        0     0.00
+   precisión:        0        0        0     0.00
+    preguntas:        0        1        1     0.00
+premios_nobel:        0        0        0     0.00
+presentación:        0        0        0     0.00
+    presentar:        0        1        0     0.00
+      primero:        1        5       12     4.98
+probablemente:        0        0        2     0.00
+    problemas:        0        8        2     0.00
+      proceso:        0        4        0     0.00
+    productos:        2        3       10    16.98
+       PROFIT:        0        0        0     0.00
+    programas:        0        0        0     0.00
+    propiedad:        0        1        1     0.00
+  proporción:        0        0        0     0.00
+    proyectos:        0        2        0     0.00
+     publicar:        0        0        0     0.00
+   publicidad:        0        0       13     0.00
+   quinientos:        0        0        1     0.00
+      ranking:        0        0        0     0.00
+real_alcázar:        0        0        0     0.00
+     realidad:        0        0        1     0.00
+     realizar:        0        0        1     0.00
+     recursos:        0        1        1     0.00
+   referencia:        0        1        1     0.00
+  reino_unido:        0        0        0     0.00
+    relación:        0        0        0     0.00
+       repsol:        0        0        0     0.00
+   requisitos:        0        1        0     0.00
+     resolver:        0        0        2     0.00
+     respecto:        0        1        0     0.00
+    salamanca:        0        0        0     0.00
+      segundo:        0        1        5     0.00
+  seguramente:        0        0        0     0.00
+    seguridad:        0        2        3     0.00
+   semántica:        0        0        0     0.00
+      sentido:        1        6        3    16.58
+      separar:        0        0        0     0.00
+    servicios:        3        2        4    64.95
+   servidores:        0        2        0     0.00
+      sesenta:        1        2        4    19.97
+      setenta:        0        0        9     0.00
+      sevilla:        0        1        0     0.00
+      siempre:        0        3        6     0.00
+    similares:        1        2        1    79.90
+  simplemente:        0        3        2     0.00
+   sinónimos:        0        0        0     0.00
+     siquiera:        1        3        2    44.97
+     sistemas:        0        0        3     0.00
+   situación:        0        0        0     0.00
+     sociales:        1        1        3    33.33
+   soluciones:        1        2        7    14.29
+      soporte:        0        1        0     0.00
+  sudamérica:        0        0        0     0.00
+       suecia:        0        0        0     0.00
+     supuesto:        0       14        0     0.00
+      taiwán:        0        0        0     0.00
+     también:        0        0        0     0.00
+      tampoco:        0        0        0     0.00
+    técnicas:        0        0        0     0.00
+ tecnologías:        0        0        0     0.00
+  telefónica:        0        0        0     0.00
+     terceros:        0        0        1     0.00
+    términos:        0        0        0     0.00
+     todavía:        0        0        0     0.00
+torres_quevedo:        0        0        0     0.00
+   totalmente:        1        0        5    20.00
+      trabajo:        0        1        2     0.00
+  tradicional:        0        1        1     0.00
+  traducción:        0        0        0     0.00
+transferencia:        0        0        0     0.00
+  tratamiento:        0        0        0     0.00
+      treinta:        0        2        0     0.00
+tremendamente:        0        0        4     0.00
+  trescientos:        0        1        0     0.00
+universidad_de_chile:        0        0        0     0.00
+universidades:        0        3        0     0.00
+      ustedes:        0       18        0     0.00
+     usuarios:        0        4        6     0.00
+     utilizar:        0        3        2     0.00
+     valencia:        0        0        0     0.00
+  validación:        0        0        0     0.00
+   valladolid:        0        0        1     0.00
+    venezuela:        0        0        0     0.00
+      ventaja:        0        0        0     0.00
+       verity:        1        0        1   100.00
+    versiones:        0        5        0     0.00
+      virtual:        0        2        3     0.00
+  visibilidad:        0        1        0     0.00
+      visitas:        0       12        0     0.00
+      volumen:        0        2        2     0.00
+     vosotros:        0        1        0     0.00
+    webmaster:        0        0        0     0.00
+    wikipedia:        0        0        0     0.00
+windows_mobile:        0        0        0     0.00
+     zaragoza:        0        0        1     0.00
+       zurich:        0        0        0     0.00
+    webtrends:        0        0        2     0.00
+   larry_page:        0        0        0     0.00
+rolling_stones:        0        0        0     0.00
+   grupo_alma:        0        0        0     0.00
+     fundetec:        0        0        1     0.00
+       google:        1        1       34     2.65
+   nueva_york:        0        0        0     0.00
+costa_del_sol:        0        0        0     0.00
+        yahoo:        0        0        2     0.00
+      jazztel:        0        0        1     0.00
+once_ocho_once:        0        0        0     0.00
+question_answering:        0        0        0     0.00
+       serbia:        0        0        1     0.00
+deutsche_telecom:        0        0        0     0.00
+radio_nacional_de_españa:        0        0        0     0.00
+      sarkozy:        0        1        2     0.00
+       italia:        1        0        3    33.33
+correo_electrónico:        0        0        0     0.00
+felipe_gonzález:        0        0        0     0.00
+pablo_iglesias:        0        0        0     0.00
+mariano_rajoy:        0        0        0     0.00
+     zapatero:        0        0        0     0.00
+     mongolia:        0        0        0     0.00
+     singapur:        0        0        0     0.00
+  groenlandia:        0        0        0     0.00
+   telediario:        0        0        0     0.00
+   telemadrid:        0        0        0     0.00
+     vodafone:        0        0        0     0.00
+      Overall:       83      360      785     9.43
+
+ 6868 non keywords found in test files-------------------------------------------------------------------
+

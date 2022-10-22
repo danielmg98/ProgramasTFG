@@ -1,0 +1,234 @@
+====================== HTK Results Analysis =======================
+  Date: Fri Sep 30 09:39:41 2022
+  Ref : test_forced_allignement_final.mlf
+  Rec : test_recout_final.mlf
+------------------------ Figures of Merit -------------------------
+
+      KeyWord:    #Hits     #FAs  #Actual      FOM
+    academico:        0        8        6     0.00
+      acuerdo:        0        2        7     0.00
+    alfonseca:        0        0        1     0.00
+      algunos:        0        1       11     0.00
+     analisis:        0       15       18     0.00
+      anselmo:        0        0        2     0.00
+antonio_moreno:        0        0        0     0.00
+     aparecen:        0        0        6     0.00
+ aplicaciones:        0        0        9     0.00
+ aproximacion:        1        1        7    13.58
+     aspectos:        0        0        6     0.00
+     autonoma:        0        0        8     0.00
+        baeza:        0        0        1     0.00
+     bastante:        0        4       22     0.00
+       bender:        0        0        1     0.00
+    busquedas:        0        0        6     0.00
+     buscador:        0        0        7     0.00
+     buscando:        0        0       11     0.00
+       canada:        0        0        1     0.00
+     cangrejo:        0        0        7     0.00
+   castellano:        1        0        9    11.11
+       cindoc:        0        0        2     0.00
+clasificacion:        2        8       10    20.00
+    coca_cola:        0        0        0     0.00
+    comentado:        0        8        7     0.00
+completamente:        2        3       13    15.38
+ conclusiones:        0        6        8     0.00
+     concreto:        0        3        6     0.00
+     conjunto:        0        8        7     0.00
+ conocimiento:        0        0        6     0.00
+consorcio_mavir:        0        0        0     0.00
+    consultas:        1        1       16     5.94
+   contenidos:        0       39       12     0.00
+    contreras:        0        0        1     0.00
+    correctas:        0        0        6     0.00
+       corujo:        0        0        1     0.00
+     daedalus:        0        9        6     0.00
+   definicion:        0        3        6     0.00
+   desarrollo:        0        1        6     0.00
+      despues:        0        7       14     0.00
+      detalle:        0        0        7     0.00
+      dificil:        1        4       12     8.33
+   diferentes:        0       13        7     0.00
+    distintos:        0        0       21     0.00
+documentacion_cientifica:        0        0        0     0.00
+   documentos:        1        3        7    14.29
+     dominios:        1        6        6    15.01
+efectivamente:        0        0       10     0.00
+      ejemplo:        1       48       54     1.48
+    elementos:        0        0        7     0.00
+      embargo:        0        0        7     0.00
+      empezar:        0        0        7     0.00
+     empresas:        0        4        7     0.00
+    encontrar:        1        0       19     5.26
+enrique_torrejon:        0        0        0     0.00
+    entidades:        0        2       28     0.00
+     entonces:        1       16       41     0.87
+      entorno:        0        1        7     0.00
+      escocia:        0        0        1     0.00
+      especie:        0        0        7     0.00
+     estudiar:        0        0        7     0.00
+    estuvimos:        0        0        6     0.00
+     etcetera:        0        0       16     0.00
+      europea:        0        2        7     0.00
+   evaluacion:        0        2       15     0.00
+evidentemente:        0        5        7     0.00
+  expresiones:        0        0        8     0.00
+       felisa:        0        0        2     0.00
+     flebitis:        0        0        1     0.00
+  formularios:        0        0       19     0.00
+francisco_garcia:        0        0        0     0.00
+  fuenlabrada:        0        0       15     0.00
+      fuentes:        0        0       12     0.00
+funcionalidades:        0        0       10     0.00
+fundamentalmente:        0        1        7     0.00
+      general:        0       92       11     0.00
+      gestion:        0       11        9     0.00
+        gomez:        0        0        1     0.00
+      gracias:        0        0       14     0.00
+      harvard:        0        0        2     0.00
+    hipotesis:        5        1       38    13.16
+     holandes:        0        0        6     0.00
+   hospitales:        0        0        6     0.00
+       huelva:        0        0        2     0.00
+iberoamericanas:        0        0        1     0.00
+      idiomas:        0        1       27     0.00
+     imagenes:        3       11       26     8.49
+  implicacion:        0        0       31     0.00
+   importante:        0        1       19     0.00
+      incluir:        0        3        6     0.00
+      incluso:        0       11       12     0.00
+infecciones_urinarias:        0        0        0     0.00
+  informacion:       11       13       92    11.58
+      inicial:        0        1        8     0.00
+     intentar:        0        1       12     0.00
+  interesante:        0        7        8     0.00
+     interfaz:        0        0       10     0.00
+     internet:        0        2        4     0.00
+investigacion:        0        4       15     0.00
+investigadores:        0        1        9     0.00
+latinoamericano:        0        0        1     0.00
+     lenguaje:        0       13        6     0.00
+ luis_rodrigo:        0        0        0     0.00
+       madrid:        0        0        6     0.00
+       manuel:        0        0        6     0.00
+       marcin:        0        0        1     0.00
+      medicos:        0        0        6     0.00
+    mecanismo:        0        1        7     0.00
+      mejores:        0        7        6     0.00
+   mencionado:        0        0        6     0.00
+  metodologia:        0        0       10     0.00
+      momento:        0        9       17     0.00
+      motores:        0        3        6     0.00
+      maquina:        0        0        7     0.00
+    necesario:        0        0        6     0.00
+  normalmente:        0        1        6     0.00
+     nosotros:        0       17       30     0.00
+     nuestros:        0        2       10     0.00
+nueva_gales_del_sur:        0        0        0     0.00
+    objetivos:        0        0        9     0.00
+      obtener:        0        0        9     0.00
+   obviamente:        0        1       10     0.00
+open_directory:        0        0        0     0.00
+  orientacion:        0        0        6     0.00
+pablo_serrano:        0        0        0     0.00
+    pacientes:        0        0        9     0.00
+     palabras:        1        2       10    10.00
+       paloma:        0        0        3     0.00
+     parecido:        0        0        6     0.00
+participantes:        0        0       12     0.00
+ paz_iglesias:        0        0        0     0.00
+peninsula_iberica:        0        0        0     0.00
+  pepsi_twist:        0        0        0     0.00
+     perfiles:        0        0        7     0.00
+     personas:        0        2        6     0.00
+  perspectiva:        0        0        8     0.00
+      poquito:        0        1       10     0.00
+   porcentaje:        0        0        8     0.00
+     posibles:        0        2       10     0.00
+       potter:        0        0        1     0.00
+ precisamente:        0        0        6     0.00
+    preguntas:        0        1        8     0.00
+ presentacion:        1        4       14     5.73
+    presentar:        0        0       11     0.00
+      primera:        2        6       19     9.74
+    principio:        0       17        9     0.00
+    problemas:        0        7        9     0.00
+     procesos:        0        0        6     0.00
+    productos:        0        2        9     0.00
+     programa:        0        0       11     0.00
+    propuesta:        0        0       19     0.00
+    proyectos:        0        1        6     0.00
+      ranking:        0        0       11     0.00
+     realidad:        1        7       10     9.50
+     realizar:        0        0        8     0.00
+    realmente:        0        2       13     0.00
+reconocimiento:        0        0        6     0.00
+ recuperacion:        0        0       10     0.00
+      recurso:        0        0        7     0.00
+   referencia:        0        1       13     0.00
+  reino_unido:        0        0        0     0.00
+    relevante:        0        1        6     0.00
+     resolver:        0        1        7     0.00
+   respuestas:        0        0       44     0.00
+   resultados:        1        7       21     4.53
+      reunion:        0        1       19     0.00
+     rio_tajo:        0        0        0     0.00
+      scholar:        0        0        2     0.00
+      segunda:        0        0        8     0.00
+    seguridad:        0        1        6     0.00
+     sencillo:        0        0        7     0.00
+    servicios:        0        0        6     0.00
+      setenta:        1        1        6    16.67
+      siempre:        0        5       10     0.00
+    siguiente:        0        0       11     0.00
+  simplemente:        1        9        8    11.88
+      sinamed:        0        0        1     0.00
+     sistemas:        4        2       46     8.05
+    solamente:        1        0       10    10.00
+     solucion:        0        1        7     0.00
+      soporte:        0        0        8     0.00
+  strathclyde:        0        0        1     0.00
+  subunidades:        0        0        6     0.00
+      tambien:        0        5       93     0.00
+     tecnicas:        0        0       10     0.00
+  tecnologias:        0        1        6     0.00
+      textual:        0        1       15     0.00
+      todavia:        0        0       10     0.00
+     trabajar:        0        0       39     0.00
+ traducciones:        0        0        8     0.00
+transparencia:        0        0        6     0.00
+     terminos:        0        2       17     0.00
+       unesco:        0        0        5     0.00
+universidades:        1        7       13     7.31
+      ustedes:        0        3       10     0.00
+     usuarios:        0        0       40     0.00
+     utilizar:        0        2       15     0.00
+   validacion:        2        5       18    10.28
+       victor:        0        0        1     0.00
+  vicente_fox:        0        0        0     0.00
+  webometrics:        0        0        1     0.00
+       zagreb:        0        0        2     0.00
+      buenaga:        0        0        2     0.00
+       isidro:        0        0        4     0.00
+formato_digital:        0        0        0     0.00
+       bitext:        0        0        8     0.00
+  naturalmail:        0        0        2     0.00
+         csic:        0        1        2     0.00
+     posgrado:        0        0        1     0.00
+    doctorado:        0        0        1     0.00
+       italia:        0        0        2     0.00
+presidente_de_mejico:        0        0        0     0.00
+      croacia:        0        0        3     0.00
+         clef:        0        4       11     0.00
+answer_validation_exercise:        0        0        0     0.00
+cross_language_evaluation_forum:        0        0        0     0.00
+       google:        0        2       13     0.00
+       flickr:        0        0       19     0.00
+     booleano:        0        0        2     0.00
+cristiano_ronaldo:        0        0        0     0.00
+fernando_alonso:        0        0        0     0.00
+    pau_gasol:        0        0        0     0.00
+carolina_martin:        0        0        0     0.00
+      Overall:       48      565     2114     2.12
+
+ 11202 non keywords found in test files-------------------------------------------------------------------
+
